@@ -34,7 +34,7 @@
 				</Linker>
 			</Target>
 		</Build>
-		<Unit filename="../ModulesKondratenko.h" />
+		<Unit filename="ModulesKondratenko.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

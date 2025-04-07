@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1744019837 source:c:\kondratenko-dmytro-kb24\lab09\prj\testdriver\main.cpp
+	<iostream>
+	"ModulesKondratenko.h"
+	<clocale>
+
+1744018880 c:\kondratenko-dmytro-kb24\lab08\prj\moduleskondratenko\moduleskondratenko.h
+	<cmath>
+
+1744018880 source:c:\kondratenko-dmytro-kb24\lab08\prj\moduleskondratenko\main.cpp
+	<iostream>
+	<cmath>
+	<bitset>
+

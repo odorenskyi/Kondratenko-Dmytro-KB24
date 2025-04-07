@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1743926770 source:c:\kondratenko-dmytro-kb24\lab08\prj\moduleskondratenko\main.cpp
+1744018184 source:c:\kondratenko-dmytro-kb24\lab08\prj\moduleskondratenko\main.cpp
 	<iostream>
 	<cmath>
+	<bitset>
 
 1743925256 source:c:\kondratenko-dmytro-kb24\lab08\prj\moduleskondratenko\untitled1.c
 	<iostream>
