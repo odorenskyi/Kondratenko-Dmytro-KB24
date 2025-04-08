@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1744019837 source:c:\kondratenko-dmytro-kb24\lab09\prj\testdriver\main.cpp
+1744020225 source:c:\kondratenko-dmytro-kb24\lab09\prj\testdriver\main.cpp
 	<iostream>
 	"ModulesKondratenko.h"
 	<clocale>
