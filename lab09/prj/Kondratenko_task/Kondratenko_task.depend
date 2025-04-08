@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1744118509 source:c:\kondratenko-dmytro-kb24\lab09\prj\kondratenko_task\main.cpp
+	<iostream>
+	<cctype>
+	<limits>
+	<clocale>
+	"ModulesKondratenko.h"
+
+1744118210 c:\kondratenko-dmytro-kb24\lab08\prj\moduleskondratenko\moduleskondratenko.h
+	<cmath>
+
+1744118210 source:c:\kondratenko-dmytro-kb24\lab08\prj\moduleskondratenko\main.cpp
+	<iostream>
+	<cmath>
+	<bitset>
+
