@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1746468445 source:c:\kondratenko-dmytro-kb24\lab11\prj\module_file_zaritskyi\module_file_zaritskyi.cpp
+	"Module_File_Zaritskyi.h"
+
+1746468445 c:\kondratenko-dmytro-kb24\lab11\prj\module_file_zaritskyi\module_file_zaritskyi.h
+	"struct_type_project_2.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1746375395 c:\kondratenko-dmytro-kb24\lab11\prj\struct_type_project_2.h
+	<string>
+

@@ -15,3 +15,17 @@
 1746375395 c:\unik\lr11\project_2\struct_type_project_2.h
 	<string>
 
+1746382543 source:c:\kondratenko-dmytro-kb24\lab11\prj\module_crud_kondratenko\module_crud_kondratenko.cpp
+	"Module_CRUD_Kondratenko.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<limits>
+
+1746469954 c:\kondratenko-dmytro-kb24\lab11\prj\module_crud_kondratenko\module_crud_kondratenko.h
+	"struct_type_project_2.h"
+	<string>
+
+1746375395 c:\kondratenko-dmytro-kb24\lab11\prj\struct_type_project_2.h
+	<string>
+

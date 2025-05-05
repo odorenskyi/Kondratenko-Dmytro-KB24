@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1746469976 source:c:\kondratenko-dmytro-kb24\lab11\prj\prj_2_kondratenko\main.cpp
+	<iostream>
+	<limits>
+	<thread>
+	<chrono>
+	"../struct_type_project_2.h"
+	"Module_CRUD_Kondratenko.h"
+	"Module_File_Zaritskyi.h"
+	"Module_SearchDel_Kolesnyk.h"
+
+1746375395 c:\kondratenko-dmytro-kb24\lab11\prj\struct_type_project_2.h
+	<string>
+
+1746470032 c:\kondratenko-dmytro-kb24\lab11\prj\module_crud_kondratenko\module_crud_kondratenko.h
+	"struct_type_project_2.h"
+	<string>
+
+1746468445 c:\kondratenko-dmytro-kb24\lab11\prj\module_file_zaritskyi\module_file_zaritskyi.h
+	"struct_type_project_2.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1746468458 c:\kondratenko-dmytro-kb24\lab11\prj\module_searchdel_kolesnyk\module_searchdel_kolesnyk.h
+	"struct_type_project_2.h"
+	<string>
+
