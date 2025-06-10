@@ -1,0 +1,20 @@
+TEST_CASE: Calculate Volume Default Values
+METHOD: getVolume
+PARAMS: 
+EXPECTED: 1.0
+---
+TEST_CASE: Calculate Volume Custom Values
+METHOD: getVolume
+PARAMS: setup:5.0,3.0,2.0
+EXPECTED: 30.0
+---
+TEST_CASE: Calculate Volume with Zero
+METHOD: getVolume
+PARAMS: setup:0.0,5.0,3.0
+EXPECTED: 0.0
+---
+TEST_CASE: Calculate Volume Large Numbers
+METHOD: getVolume
+PARAMS: setup:100.0,50.0,25.0
+EXPECTED: 125000.0
+---

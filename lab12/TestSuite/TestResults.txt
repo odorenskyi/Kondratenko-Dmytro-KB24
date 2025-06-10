@@ -1,0 +1,50 @@
+=== РЕЗУЛЬТАТИ UNIT-ТЕСТУВАННЯ ===
+
+Тест: Default Constructor Test | Метод: constructor_default
+Результат: ПРОЙДЕНО
+---
+Тест: Parametrized Constructor Valid Values | Метод: constructor_params
+Результат: ПРОЙДЕНО
+---
+Тест: Constructor with Zero Values | Метод: constructor_params
+Результат: ПРОЙДЕНО
+---
+Тест: Set Valid Height | Метод: setHeight
+Результат: ПРОЙДЕНО
+---
+Тест: Set Invalid Height Negative | Метод: setHeight
+Очікуваний виняток: Висота прямокутника не може бути менше нуля!
+Результат: ПРОЙДЕНО
+---
+Тест: Set Valid Width | Метод: setWidth
+Результат: ПРОЙДЕНО
+---
+Тест: Set Invalid Width Negative | Метод: setWidth
+Очікуваний виняток: Ширина прямокутника не може бути менше нуля!
+Результат: ПРОЙДЕНО
+---
+Тест: Set Valid Length | Метод: setLength
+Результат: ПРОЙДЕНО
+---
+Тест: Set Invalid Length Negative | Метод: setLength
+Очікуваний виняток: Довжина прямокутника не може бути менше нуля!
+Результат: ПРОЙДЕНО
+---
+Тест: Calculate Volume Default Values | Метод: getVolume
+Обчислено: 1 | Очікувано: 1
+Результат: ПРОЙДЕНО
+---
+Тест: Calculate Volume Custom Values | Метод: getVolume
+Обчислено: 30 | Очікувано: 30
+Результат: ПРОЙДЕНО
+---
+Тест: Calculate Volume with Zero | Метод: getVolume
+Обчислено: 0 | Очікувано: 0
+Результат: ПРОЙДЕНО
+---
+Тест: Calculate Volume Large Numbers | Метод: getVolume
+Обчислено: 125000 | Очікувано: 125000
+Результат: ПРОЙДЕНО
+---
+
+ПІДСУМОК: 13/13 тестів пройдено (100%)

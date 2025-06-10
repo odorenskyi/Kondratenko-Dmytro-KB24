@@ -1,0 +1,30 @@
+TEST_CASE: Set Valid Height
+METHOD: setHeight
+PARAMS: 10.5
+EXPECTED: height=10.5
+---
+TEST_CASE: Set Invalid Height Negative
+METHOD: setHeight
+PARAMS: -5.0
+EXCEPTION: Висота прямокутника не може бути менше нуля!
+---
+TEST_CASE: Set Valid Width
+METHOD: setWidth
+PARAMS: 7.2
+EXPECTED: width=7.2
+---
+TEST_CASE: Set Invalid Width Negative
+METHOD: setWidth
+PARAMS: -3.0
+EXCEPTION: Ширина прямокутника не може бути менше нуля!
+---
+TEST_CASE: Set Valid Length
+METHOD: setLength
+PARAMS: 4.8
+EXPECTED: length=4.8
+---
+TEST_CASE: Set Invalid Length Negative
+METHOD: setLength
+PARAMS: -2.5
+EXCEPTION: Довжина прямокутника не може бути менше нуля!
+---

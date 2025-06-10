@@ -1,0 +1,15 @@
+TEST_CASE: Default Constructor Test
+METHOD: constructor_default
+PARAMS: 
+EXPECTED: height=1,width=1,length=1
+---
+TEST_CASE: Parametrized Constructor Valid Values
+METHOD: constructor_params
+PARAMS: 5.0,3.0,2.0
+EXPECTED: height=5.0,width=2.0,length=3.0
+---
+TEST_CASE: Constructor with Zero Values
+METHOD: constructor_params
+PARAMS: 0.0,0.0,0.0
+EXPECTED: height=0.0,width=0.0,length=0.0
+---
