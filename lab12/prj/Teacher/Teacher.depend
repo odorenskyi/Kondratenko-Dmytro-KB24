@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1749584111 source:c:\kondratenko-dmytro-kb24\lab12\prj\teacher\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<direct.h>
+	<thread>
+	<chrono>
+	"../../../lab08/prj/ModulesKondratenko/ModulesKondratenko.h"
+
+1749582379 c:\kondratenko-dmytro-kb24\lab08\prj\moduleskondratenko\moduleskondratenko.h
+	<cmath>
+	<string>
+
